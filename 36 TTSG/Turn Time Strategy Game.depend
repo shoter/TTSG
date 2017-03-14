@@ -1,0 +1,308 @@
+# depslib dependency file v1.0
+1310633722 source:c:\users\damian\documents\cpp\all\36 ttsg\main.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<ctime>
+
+1312208658 source:c:\users\damian\documents\cpp\all\36 ttsg\game.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<iostream>
+	"pole.h"
+	"ekran.h"
+	"mapa.h"
+	"pamiec.h"
+	"gracz.h"
+	"wieza.h"
+	"swiat.h"
+	"textmaster.h"
+	"lista.h"
+
+1310415265 c:\users\damian\documents\cpp\all\36 ttsg\pole.h
+	"kamera.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	"budynek.h"
+	"Gracz.h"
+
+1311677845 c:\users\damian\documents\cpp\all\36 ttsg\ekran.h
+	<allegro5/allegro.h>
+	<string>
+	"audio.h"
+
+1307882788 source:c:\users\damian\documents\cpp\all\36 ttsg\kamera.cpp
+	"kamera.h"
+	<iostream>
+	<cmath>
+
+1307176244 c:\users\damian\documents\cpp\all\36 ttsg\kamera.h
+
+1311359850 source:c:\users\damian\documents\cpp\all\36 ttsg\ekran.cpp
+	"ekran.h"
+	<iostream>
+
+1305995404 source:c:\users\damian\documents\cpp\all\36 ttsg\funkcje.cpp
+	<cmath>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro.h>
+
+1311679473 source:c:\users\damian\documents\cpp\all\36 ttsg\pole.cpp
+	"pole.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"audio.h"
+
+1310211172 source:c:\users\damian\documents\cpp\all\36 ttsg\budynek.cpp
+	"budynek.h"
+	"mapa.h"
+
+1310228990 c:\users\damian\documents\cpp\all\36 ttsg\budynek.h
+	<string>
+	"pole.h"
+	"surowce.h"
+	"gracz.h"
+
+1308405537 source:c:\users\damian\documents\cpp\all\36 ttsg\surowce.cpp
+	"surowce.h"
+
+1311010905 c:\users\damian\documents\cpp\all\36 ttsg\surowce.h
+
+1311010100 c:\users\damian\documents\cpp\all\36 ttsg\gracz.h
+	<allegro5/allegro.h>
+	"ekran.h"
+	"surowce.h"
+	"mapa.h"
+	"marker.h"
+	"textmaster.h"
+	<string>
+
+1310229704 source:c:\users\damian\documents\cpp\all\36 ttsg\tartak.cpp
+	"tartak.h"
+	<iostream>
+
+1310228929 c:\users\damian\documents\cpp\all\36 ttsg\tartak.h
+	"Budynek.h"
+
+1311680466 source:c:\users\damian\documents\cpp\all\36 ttsg\gracz.cpp
+	"gracz.h"
+	<allegro5/allegro_font.h>
+	"budynki.h"
+	"lista.h"
+	<iostream>
+
+1311010323 source:c:\users\damian\documents\cpp\all\36 ttsg\mapa.cpp
+	"mapa.h"
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<vector>
+	<cmath>
+	"budynki.h"
+	"gracz.h"
+
+1310415311 c:\users\damian\documents\cpp\all\36 ttsg\mapa.h
+	"pole.h"
+	"pamiec.h"
+	"marker.h"
+	"textmaster.h"
+
+1307040962 source:c:\users\damian\documents\cpp\all\36 ttsg\pamiec.cpp
+	"pamiec.h"
+
+1310312441 c:\users\damian\documents\cpp\all\36 ttsg\pamiec.h
+
+1310229025 source:c:\users\damian\documents\cpp\all\36 ttsg\kopalnia.cpp
+	"kopalnia.h"
+	<iostream>
+
+1310228935 c:\users\damian\documents\cpp\all\36 ttsg\kopalnia.h
+	"budynek.h"
+
+1310229101 source:c:\users\damian\documents\cpp\all\36 ttsg\wieza.cpp
+	"Wieza.h"
+	<iostream>
+
+1310228926 c:\users\damian\documents\cpp\all\36 ttsg\wieza.h
+	"budynek.h"
+
+1310238517 source:c:\users\damian\documents\cpp\all\36 ttsg\farma.cpp
+	"Farma.h"
+	<iostream>
+
+1310228940 c:\users\damian\documents\cpp\all\36 ttsg\farma.h
+	"Budynek.h"
+
+1310229068 source:c:\users\damian\documents\cpp\all\36 ttsg\baraki.cpp
+	"Baraki.h"
+	<iostream>
+
+1310228947 c:\users\damian\documents\cpp\all\36 ttsg\baraki.h
+	"Budynek.h"
+
+1310229017 source:c:\users\damian\documents\cpp\all\36 ttsg\gospoda.cpp
+	"Gospoda.h"
+	<iostream>
+
+1310228938 c:\users\damian\documents\cpp\all\36 ttsg\gospoda.h
+	"Budynek.h"
+
+1310229095 source:c:\users\damian\documents\cpp\all\36 ttsg\kosciol.cpp
+	"Kosciol.h"
+	<iostream>
+
+1310228933 c:\users\damian\documents\cpp\all\36 ttsg\kosciol.h
+	"Budynek.h"
+
+1310228987 source:c:\users\damian\documents\cpp\all\36 ttsg\zamek.cpp
+	"Zamek.h"
+	<iostream>
+
+1310228990 c:\users\damian\documents\cpp\all\36 ttsg\zamek.h
+	"Budynek.h"
+
+1311947314 source:c:\users\damian\documents\cpp\all\36 ttsg\swiat.cpp
+	"swiat.h"
+	"marker.h"
+	<string>
+
+1310299514 c:\users\damian\documents\cpp\all\36 ttsg\swiat.h
+	"mapa.h"
+	"pamiec.h"
+	"textmaster.h"
+
+1307732741 c:\users\damian\documents\cpp\all\36 ttsg\marker.h
+	<allegro5/allegro.h>
+
+1307732730 source:c:\users\damian\documents\cpp\all\36 ttsg\marker.cpp
+	"marker.h"
+
+1307881866 source:c:\users\damian\documents\cpp\all\36 ttsg\text.cpp
+	"text.h"
+	<allegro5/allegro_font.h>
+
+1307881959 c:\users\damian\documents\cpp\all\36 ttsg\text.h
+	<allegro5/allegro.h>
+	<string>
+	"kamera.h"
+
+1308149111 source:c:\users\damian\documents\cpp\all\36 ttsg\textmaster.cpp
+	"textmaster.h"
+	<iostream>
+
+1308149095 c:\users\damian\documents\cpp\all\36 ttsg\textmaster.h
+	"text.h"
+	"pamiec.h"
+	"kamera.h"
+
+1308157760 c:\users\damian\documents\cpp\all\36 ttsg\budynki.h
+	"Baraki.h"
+	"farma.h"
+	"gospoda.h"
+	"kopalnia.h"
+	"kopalnia.h"
+	"tartak.h"
+	"wieza.h"
+	"zamek.h"
+	"kosciol.h"
+
+1310228171 source:c:\users\damian\documents\cpp\all\36 ttsg\lista.cpp
+	"lista.h"
+	"surowce.h"
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+
+1310228180 c:\users\damian\documents\cpp\all\36 ttsg\lista.h
+	<allegro5/allegro.h>
+	<string>
+
+1311010905 source:c:\users\damian\documents\cpp\all\36 ttsg\bot.cpp
+	"gracz.h"
+	"budynki.h"
+	<iostream>
+
+1311680578 source:c:\users\damian\documents\cpp\all\36 ttsg\menu.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	"button.h"
+	"ekran.h"
+	"mgracz.h"
+	"buttonclick.h"
+	"swiat.h"
+	"audio.h"
+	<string>
+	<iostream>
+
+1300699364 source:c:\users\damian\documents\cpp\all\36 ttsg\button.cpp
+	"button.h"
+
+1300699354 c:\users\damian\documents\cpp\all\36 ttsg\button.h
+	<string>
+	<allegro5/allegro.h>
+
+1311011804 source:c:\users\damian\documents\cpp\all\36 ttsg\buttonclick.cpp
+	"buttonclick.h"
+
+1311006094 c:\users\damian\documents\cpp\all\36 ttsg\buttonclick.h
+	"ekran.h"
+	"button.h"
+
+1310765247 source:c:\users\damian\documents\cpp\all\36 ttsg\changestate.cpp
+	"changestate.h"
+	"ekran.h"
+	"state.h"
+
+1310765250 c:\users\damian\documents\cpp\all\36 ttsg\changestate.h
+	"pamiec.h"
+
+1310725707 c:\users\damian\documents\cpp\all\36 ttsg\state.h
+
+1310765233 source:c:\users\damian\documents\cpp\all\36 ttsg\colorstate.cpp
+	"colorstate.h"
+	<allegro5/allegro_primitives.h>
+
+1310725683 c:\users\damian\documents\cpp\all\36 ttsg\colorstate.h
+	<allegro5/allegro.h>
+	"state.h"
+
+1310725762 source:c:\users\damian\documents\cpp\all\36 ttsg\state.cpp
+	"state.h"
+
+1310765178 source:c:\users\damian\documents\cpp\all\36 ttsg\bitmapstate.cpp
+	"bitmapstate.h"
+
+1310764288 c:\users\damian\documents\cpp\all\36 ttsg\bitmapstate.h
+	"state.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1311009748 source:c:\users\damian\documents\cpp\all\36 ttsg\mgracz.cpp
+	"mgracz.h"
+	"colorstate.h"
+	"bitmapstate.h"
+	"ekran.h"
+	<allegro5/allegro_primitives.h>
+	<iostream>
+
+1310849833 c:\users\damian\documents\cpp\all\36 ttsg\mgracz.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	"ChangeState.h"
+	<string>
+
+1312208631 c:\users\damian\documents\cpp\all\36 ttsg\audio.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"pamiec.h"
+	<string>
+
+1312208631 source:c:\users\damian\documents\cpp\all\36 ttsg\audio.cpp
+	"audio.h"
+	<iostream>
+

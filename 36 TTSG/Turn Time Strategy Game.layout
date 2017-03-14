@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Baraki.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2041" topLine="42" />
+	</File>
+	<File name="Baraki.h" open="1" top="1" tabpos="12">
+		<Cursor position="378" topLine="0" />
+	</File>
+	<File name="Budynek.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1703" topLine="46" />
+	</File>
+	<File name="Budynek.h" open="0" top="0" tabpos="12">
+		<Cursor position="600" topLine="0" />
+	</File>
+	<File name="Farma.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1717" topLine="42" />
+	</File>
+	<File name="Farma.h" open="0" top="0" tabpos="13">
+		<Cursor position="546" topLine="0" />
+	</File>
+	<File name="Gospoda.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1892" topLine="42" />
+	</File>
+	<File name="Gospoda.h" open="0" top="0" tabpos="3">
+		<Cursor position="554" topLine="0" />
+	</File>
+	<File name="Kopalnia.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2287" topLine="56" />
+	</File>
+	<File name="Kopalnia.h" open="0" top="0" tabpos="4">
+		<Cursor position="555" topLine="0" />
+	</File>
+	<File name="Kosciol.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1973" topLine="45" />
+	</File>
+	<File name="Kosciol.h" open="0" top="0" tabpos="5">
+		<Cursor position="546" topLine="0" />
+	</File>
+	<File name="Pole.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="395" topLine="0" />
+	</File>
+	<File name="Pole.h" open="0" top="0" tabpos="4">
+		<Cursor position="690" topLine="10" />
+	</File>
+	<File name="Surowce.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="1399" topLine="50" />
+	</File>
+	<File name="Tartak.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="2034" topLine="59" />
+	</File>
+	<File name="Tartak.h" open="0" top="0" tabpos="6">
+		<Cursor position="540" topLine="0" />
+	</File>
+	<File name="Wieza.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="1739" topLine="39" />
+	</File>
+	<File name="Wieza.h" open="0" top="0" tabpos="7">
+		<Cursor position="531" topLine="0" />
+	</File>
+	<File name="Zamek.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="2303" topLine="60" />
+	</File>
+	<File name="Zamek.h" open="0" top="0" tabpos="8">
+		<Cursor position="604" topLine="0" />
+	</File>
+	<File name="audio.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1945" topLine="57" />
+	</File>
+	<File name="audio.h" open="1" top="0" tabpos="2">
+		<Cursor position="428" topLine="0" />
+	</File>
+	<File name="bitmapstate.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="404" topLine="0" />
+	</File>
+	<File name="bitmapstate.h" open="0" top="0" tabpos="0">
+		<Cursor position="267" topLine="0" />
+	</File>
+	<File name="bot.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="885" topLine="7" />
+	</File>
+	<File name="budynki.h" open="0" top="0" tabpos="12">
+		<Cursor position="190" topLine="0" />
+	</File>
+	<File name="button.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="460" topLine="0" />
+	</File>
+	<File name="button.h" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="buttonclick.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="316" topLine="0" />
+	</File>
+	<File name="buttonclick.h" open="0" top="0" tabpos="5">
+		<Cursor position="22" topLine="0" />
+	</File>
+	<File name="changestate.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="614" topLine="2" />
+	</File>
+	<File name="changestate.h" open="0" top="0" tabpos="6">
+		<Cursor position="463" topLine="0" />
+	</File>
+	<File name="colorstate.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="220" topLine="0" />
+	</File>
+	<File name="colorstate.h" open="0" top="0" tabpos="11">
+		<Cursor position="93" topLine="0" />
+	</File>
+	<File name="ekran.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="361" topLine="3" />
+	</File>
+	<File name="ekran.h" open="1" top="0" tabpos="5">
+		<Cursor position="793" topLine="16" />
+	</File>
+	<File name="funkcje.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="736" topLine="23" />
+	</File>
+	<File name="gracz.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="684" topLine="6" />
+	</File>
+	<File name="gracz.h" open="0" top="0" tabpos="9">
+		<Cursor position="561" topLine="12" />
+	</File>
+	<File name="kamera.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1153" topLine="11" />
+	</File>
+	<File name="kamera.h" open="0" top="0" tabpos="15">
+		<Cursor position="16" topLine="0" />
+	</File>
+	<File name="lista.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="2554" topLine="49" />
+	</File>
+	<File name="lista.h" open="0" top="0" tabpos="0">
+		<Cursor position="228" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1051" topLine="11" />
+	</File>
+	<File name="mapa.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="3802" topLine="96" />
+	</File>
+	<File name="mapa.h" open="0" top="0" tabpos="3">
+		<Cursor position="1098" topLine="20" />
+	</File>
+	<File name="marker.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="150" topLine="0" />
+	</File>
+	<File name="marker.h" open="0" top="0" tabpos="7">
+		<Cursor position="214" topLine="0" />
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1620" topLine="60" />
+	</File>
+	<File name="mgracz.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="6121" topLine="167" />
+	</File>
+	<File name="mgracz.h" open="0" top="0" tabpos="8">
+		<Cursor position="443" topLine="0" />
+	</File>
+	<File name="pamiec.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="21" topLine="0" />
+	</File>
+	<File name="pamiec.h" open="1" top="0" tabpos="7">
+		<Cursor position="1380" topLine="48" />
+	</File>
+	<File name="state.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="108" topLine="0" />
+	</File>
+	<File name="state.h" open="0" top="0" tabpos="9">
+		<Cursor position="105" topLine="0" />
+	</File>
+	<File name="surowce.h" open="0" top="0" tabpos="12">
+		<Cursor position="231" topLine="0" />
+	</File>
+	<File name="swiat.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="629" topLine="3" />
+	</File>
+	<File name="swiat.h" open="0" top="0" tabpos="3">
+		<Cursor position="348" topLine="0" />
+	</File>
+	<File name="textmaster.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="1824" topLine="40" />
+	</File>
+	<File name="textmaster.h" open="0" top="0" tabpos="0">
+		<Cursor position="517" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

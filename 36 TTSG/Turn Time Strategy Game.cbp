@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Turn Time Strategy Game" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="buttony etc.\;menu\;budynki\;ekran\;" />
+		<Option show_notes="0">
+			<notes>
+				<![CDATA[Ta gra jest na razie tajemnica :D]]>
+			</notes>
+		</Option>
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Turn Time Strategy Game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_font.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_image.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_main.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_primitives.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_audio.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_acodec.dll.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Turn Time Strategy Game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_font.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_image.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_main.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_primitives.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_acodec.dll.a" />
+					<Add library="D:\programy\cb\MinGW\allegro\build\lib\liballegro_audio.dll.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Baraki.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Baraki.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Budynek.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Budynek.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Farma.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Farma.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Gospoda.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Gospoda.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Kopalnia.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Kopalnia.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Kosciol.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Kosciol.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Pole.cpp" />
+		<Unit filename="Pole.h" />
+		<Unit filename="Surowce.cpp" />
+		<Unit filename="Tartak.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Tartak.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Text.cpp" />
+		<Unit filename="Wieza.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Wieza.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Zamek.cpp">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="Zamek.h">
+			<Option virtualFolder="budynki\" />
+		</Unit>
+		<Unit filename="audio.cpp">
+			<Option virtualFolder="ekran\" />
+		</Unit>
+		<Unit filename="audio.h">
+			<Option virtualFolder="ekran\" />
+		</Unit>
+		<Unit filename="bitmapstate.cpp">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="bitmapstate.h">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="bot.cpp" />
+		<Unit filename="budynki.h" />
+		<Unit filename="button.cpp">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="button.h">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="buttonclick.cpp">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="buttonclick.h">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="changestate.cpp">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="changestate.h">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="colorstate.cpp">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="colorstate.h">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="ekran.cpp">
+			<Option virtualFolder="ekran\" />
+		</Unit>
+		<Unit filename="ekran.h">
+			<Option virtualFolder="ekran\" />
+		</Unit>
+		<Unit filename="funkcje.cpp" />
+		<Unit filename="game.cpp" />
+		<Unit filename="gracz.cpp" />
+		<Unit filename="gracz.h" />
+		<Unit filename="kamera.cpp" />
+		<Unit filename="kamera.h" />
+		<Unit filename="lista.cpp" />
+		<Unit filename="lista.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mapa.cpp" />
+		<Unit filename="mapa.h" />
+		<Unit filename="marker.cpp" />
+		<Unit filename="marker.h" />
+		<Unit filename="menu.cpp">
+			<Option virtualFolder="menu\" />
+		</Unit>
+		<Unit filename="mgracz.cpp">
+			<Option virtualFolder="menu\" />
+		</Unit>
+		<Unit filename="mgracz.h">
+			<Option virtualFolder="menu\" />
+		</Unit>
+		<Unit filename="pamiec.cpp" />
+		<Unit filename="pamiec.h" />
+		<Unit filename="state.cpp">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="state.h">
+			<Option virtualFolder="buttony etc.\" />
+		</Unit>
+		<Unit filename="surowce.h" />
+		<Unit filename="swiat.cpp" />
+		<Unit filename="swiat.h" />
+		<Unit filename="text.h" />
+		<Unit filename="textmaster.cpp" />
+		<Unit filename="textmaster.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
